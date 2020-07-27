@@ -168,8 +168,8 @@ export const CommonImageCredits = [
   Feel free to add or remove lines as necessary to suit your needs.
 */
 export const Palette = {
-  Navy: "#002D56",
-  Sky: "#A3D8F7",
+  Gold: "#e8cc23",
+  Green: "#296335",
   White: "#FFFFFF",
   Black: "#000000",
 
@@ -193,14 +193,14 @@ export const Palette = {
 */
 export const DefaultColors = {
   Background: Palette.White,
-  ButtonBackground: Palette.Navy,
+  ButtonBackground: Palette.Green,
   ButtonText: Palette.White,
-  HeaderBackground: Palette.Navy,
+  HeaderBackground: Palette.Green,
   HeaderText: Palette.White,
   BlackText: Palette.Black,
-  ColorText: Palette.Navy,
-  Primary: Palette.Navy,
-  Secondary: Palette.Sky,
+  ColorText: Palette.Green,
+  Primary: Palette.Green,
+  Secondary: Palette.Gold,
 };
 
 /*
